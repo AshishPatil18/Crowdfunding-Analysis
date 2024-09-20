@@ -19,5 +19,4 @@ This project involves creating a Power BI dashboard for analyzing crowdfunding p
 
 ### View Dashboard:
 - Added a **View the Live Power BI Dashboard** section, with a link to the Power BI Service dashboard.
-[[(https://app.powerbi.com/view?r=eyJrIjoiZDhhMDg4M2YtNmUzYy00MzRlLTkwZjMtMTQzZTlhMDlkYTk5IiwidCI6ImNkOTJkYjA4LTRjYTMtNDQ0Yi04NTk2LTdlNjhiMzgyMjc1NCJ9&pageName=24f4e1b23d29986da722)]
-
+https://app.powerbi.com/view?r=eyJrIjoiZDhhMDg4M2YtNmUzYy00MzRlLTkwZjMtMTQzZTlhMDlkYTk5IiwidCI6ImNkOTJkYjA4LTRjYTMtNDQ0Yi04NTk2LTdlNjhiMzgyMjc1NCJ9
